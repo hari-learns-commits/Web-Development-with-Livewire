@@ -1,0 +1,29 @@
+ body
+ {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(72, 184, 221), rgb(240, 240, 113), rgb(164, 235, 164)
+    ) ;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 100px;
+
+ }
+
+ .formbox 
+ {
+    width: 80vw;
+    padding: 20px;
+    background: linear-gradient(to bottom,  rgb(72, 184, 221), rgb(240, 240, 113), rgb(164, 235, 164));
+ }
+ .submit
+ {
+    background: rgb(63, 147, 4);
+    color: aliceblue;
+ }
+ .reset
+ {
+    background-color: rgb(241, 60, 60);
+    color: aliceblue;
+ }
